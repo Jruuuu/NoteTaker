@@ -4,6 +4,7 @@
 // ==============================================================================
 
 var express = require("express");
+const path = require("path");
 
 // ==============================================================================
 // EXPRESS CONFIGURATION
@@ -21,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //make public assest accessible to the client
-app.use(express.static("public"));
+app.use(express.static(path.join(__dirname,"/public")));
 
 // ================================================================================
 // ROUTER
