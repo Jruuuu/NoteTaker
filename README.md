@@ -18,7 +18,7 @@ I am a user that needs an application to help as note reminder and complete task
     INSTALL GITBASH
     Clone To REPO
     Git Command: "npm init -y"
-    Git Command: "npm i -y"
+    Git Command: "npm i express"
     Run Command: node server.js
 
 
