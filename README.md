@@ -4,32 +4,28 @@
 # TABLE OF CONTENTS
 1. [Introduction](#introduction)
 2. [User Story](#user)
-3. [Installation Commands](#installation)
-4. [Questions Asked](#questions)
-5. [Test Commands](#test)
-6. [License & Copyright](#license)
-7. [Example](#example)
+3. [Test Commands](#test)
+4. [License & Copyright](#license)
+5. [Example](#example)
 
 ## In This Project <a name="introduction"></a> 
-We were given a develop folder with Front End Code, and we were to develop the back end code using Express.JS, deploy through a live server (Heroku) to connect with the Front End.
+We were given a develop folder with Front End Code, and we were to develop the back end code using EXPRESS.JS, deploy through a live server (Heroku) to connect with the Front End.
 ## User Story <a name="user"></a>
 I am a user that needs an application to help as note reminder and complete tasks
-## Installation Commands <a name="installation"></a>  
+## Installation Commands for local use our your PC <a name="installation"></a>  
     
     INSTALL NODE.JS
     INSTALL GITBASH
     Clone To REPO
     Git Command: "npm init -y"
-    Git Command: "npm i -y" in Terminal 
+    Git Command: "npm i -y"
     Run Command: node server.js
+
 
 I have added a link to an installatione and how to use application video
 <br>
-<a href="https://drive.google.com/file/d/1AYCAZZmo-m3Z2M7HNxWjCEF6sUACWUa8/view">***--Installation Video Link--***</a>
+<a href="https://drive.google.com/file/d/1bNfNSQGOZoaaS0R4tUz08SCuInfkUiQB/view">***--Installation Video Link--***</a>
 <br>
-
-## Questions Prompted for TEAMGEN Template <a name="questions"></a>
-  
 
 ## Test Commands <a name="test"></a>
 NONE
@@ -62,7 +58,7 @@ THE SOFTWARE.
 <br>
 <a href="https://github.com/Jruuuu/focusejotter">***GITHUB REPO: FOCUS JOTTER***</a>
 <br>
-<a href="https://focusjotter.herokuapp.com/">***FINISH PRODUCT: FOCUS JOTTER***</a>
+<a href="https://focusjotter.herokuapp.com/">***LIVE LINK: FOCUS JOTTER***</a>
 <br>
 For more info or questions E-Mail- ENRILOUGALDE@GMAIL.COM
 
