@@ -56,7 +56,7 @@ THE SOFTWARE.
 
 &copy; Git Hub User Name: Jruuuu
 <br>
-<a href="https://github.com/Jruuuu/focusejotter">***GITHUB REPO: FOCUS JOTTER***</a>
+<a href="https://github.com/Jruuuu/focusjotter">***GITHUB REPO: FOCUS JOTTER***</a>
 <br>
 <a href="https://focusjotter.herokuapp.com/">***LIVE LINK: FOCUS JOTTER***</a>
 <br>
